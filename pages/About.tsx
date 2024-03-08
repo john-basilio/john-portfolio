@@ -9,7 +9,7 @@ export default function About({}: Props) {
     <div className='relative w-screen h-screen flex justify-evenly items-center flex-col px-[50px] text-white'>
         
         <BackgroundSnow/>
-        <h1 className=' font-comfortaa text-[1.5rem] lg:text-[2rem] '>Oops! This area is still under construction. Please come back next time.</h1>
+        <h1 className=' font-comfortaa text-[1.5rem] lg:text-[2rem] '>Good News! this website is undergoing a full revamp! The new website will be </h1>
       
         <div className='flex items-center justify-center mb-[130px] lg:justify-start lg:mb[150px] lg:ml-[50px]'>
         <Link href={"/"}>
